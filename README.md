@@ -1,0 +1,4 @@
+notes
+=====
+
+Daily notes
